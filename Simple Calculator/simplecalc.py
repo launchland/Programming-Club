@@ -12,7 +12,7 @@ Yb..    8 8' 8  8 8    8 8 8oooo8   8    ' .oooo8 8 8    '
 `YooP'  8 8  8  8 8YooP' 8 `Yooo'   `YooP' `YooP8 8 `YooP' 
 :.....::....:..:..8 ....:..:.....::::.....::.....:..:.....:
 ::::::::::::::::::8 :::::::::::::::::::::::::::::::::::::::
-::::::::::::::::::..:::::: AKA calc is short for calculator""")
+::::::::::::::::::..:::::: PS: calc is short for calculator""")
 
 #used for
 running = True
